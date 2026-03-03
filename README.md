@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-**Explorando o mundo bit a bit**
+**🖥️ Explorando o mundo bit a bit**
 Sou estudante de Ciência da Computação com foco maior em Segurança da Informação, sempre buscando entender como Sistemas funcionam por debaixo dos panos para aprimorar medidas protetivas contra ataques cibernéticos.
 No tempo livro estou resolvendo máquinas no HTB, ou tentando automatizar tarefas que levariam minutos com scripts que levei horas para escrever.
 
@@ -13,6 +13,7 @@ No tempo livro estou resolvendo máquinas no HTB, ou tentando automatizar tarefa
 
 # 📬 Onde me encontrar
 - [LinkedIn](www.linkedin.com/in/romulocvlcnte)
+- E-Mail: cavalcante.romulo@protonmail.me
 
 <!--
 **rmxlocvlcnte/rmxlocvlcnte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
