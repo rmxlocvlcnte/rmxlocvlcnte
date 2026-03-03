@@ -12,7 +12,7 @@ No tempo livro estou resolvendo máquinas no HTB, ou tentando automatizar tarefa
 **Análise de Sistema**: No momento, meu único projeto, é um script básico para rodar alguns testes em sistemas e identificar falhas de segurança, num futuro penso em realizar também testes de estresse para poder identificar, e sanar, problemas de hardware.
 
 # 📬 Onde me encontrar
-- [LinkedIn()]
+- [LinkedIn(www.linkedin.com/in/romulocvlcnte)]
 
 <!--
 **rmxlocvlcnte/rmxlocvlcnte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
