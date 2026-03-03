@@ -1,6 +1,7 @@
 ## Olá! 👋
 
 **🖥️ Explorando o mundo bit a bit**
+
 Sou estudante de Ciência da Computação com foco maior em Segurança da Informação, sempre buscando entender como Sistemas funcionam por debaixo dos panos para aprimorar medidas protetivas contra ataques cibernéticos.
 No tempo livro estou resolvendo máquinas no HTB, ou tentando automatizar tarefas que levariam minutos com scripts que levei horas para escrever.
 
