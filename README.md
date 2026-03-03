@@ -31,6 +31,7 @@ Fornecer uma análise rápida do estado da máquina host, identificando:
 - Geração de saída no formato JSON
 
 ### 🔧 Estrutura:
+```bash
 Analise-de-Sistema
 ├── docs
 │   └── LICENSE
@@ -48,7 +49,7 @@ Analise-de-Sistema
         ├── __init__.py
         ├── logger.py
         └── writerjson.py
-
+```
 ## Ferramenta para validação de integridade de SSD/HDD (Ainda em Planejamento)
 ### 📌 Objetivo:
 - Coleta de Dados SMART
