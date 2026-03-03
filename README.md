@@ -2,20 +2,72 @@
 
 **🖥️ Explorando o mundo bit a bit**
 
-Sou estudante de Ciência da Computação com foco maior em Segurança da Informação, sempre buscando entender como Sistemas funcionam por debaixo dos panos para aprimorar medidas protetivas contra ataques cibernéticos.
-No tempo livro estou resolvendo máquinas no HTB, ou tentando automatizar tarefas que levariam minutos com scripts que levei horas para escrever.
+- Estudante de Ciência da Computação
+- Foco em Segurança de Endpoint e Infraestrutura
+- Automação de diagnósticos e auditoria de sistemas
 
-# No que estou trabalhando
-**CTFs e Labs**: Pratico Pentest em ambientes controlados, às vezes com máquinas virtuais próprias, ou então com alguma simulação na HTB, também analiso vulnerabilidades (CVEs).
+Entusiasta de sistemas Linux e Segurança da Informação, com interesse especial em entender como sistemas operacionais funcionam internamente, como serviços se expõem na rede e como falhas, lógicas ou físicas, podem impactar a segurança e disponibilidade de um ambiente.
 
-**Open Source**: Busco contribuir com ferramentas de automação e scripts úteis.
+# Áreas de Interesse
+- Segurança de Hosts/Endpoints
+- Hardening de Sistemas
+- Monitoramento e Observabilidade
+- Diagnóstico de falhas físicas
+- Automação com Python/Bash
 
 # Projetos
-**Análise de Sistema**: No momento, meu único projeto, é um script básico para rodar alguns testes em sistemas e identificar falhas de segurança, num futuro penso em realizar também testes de estresse para poder identificar, e sanar, problemas de hardware.
+## **Análise de Sistema**: Ferramenta de Auditoria local em Sistemas Windows e Linux, com foco em visibilidade e saúde operacional.
+### 📌 Objetivo:
+Fornecer uma análise rápida do estado da máquina host, identificando:
+- Serviços expostos (portas em estado LISTEN)
+- Indicadores básicos de saúde do sistema
+- Informações relevantes para auditoria local
 
-# 📬 Onde me encontrar
+### 🔎 Funcionalidades:
+- Enumeração de portas em LISTEN
+- Checagem de uso de CPU, memória e espaço em disco
+- Coleta de informações relevantes
+- Estrutura modular
+- Geração de saída no formato JSON
+
+### 🔧 Estrutura:
+Analise-de-Sistema
+├── docs
+│   └── LICENSE
+├── .gitignore
+├── README.md
+└── sysreport
+    ├── __init__.py
+    ├── main.py
+    ├── modulos
+    │   ├── __init__.py
+    │   ├── logs.py
+    │   ├── rede.py
+    │   └── saude.py
+    └── utils
+        ├── __init__.py
+        ├── logger.py
+        └── writerjson.py
+
+## Ferramenta para validação de integridade de SSD/HDD (Ainda em Planejamento)
+### 📌 Objetivo:
+- Coleta de Dados SMART
+- Verificação de temperatura
+- Benchmark de leitura/escrita
+- Análise de falhas físicas
+- Gerar índice de risco do hardware
+
+Acredito que um sistema seguro não é apenas sobre detecção de possíveis ataques, mas também envolve:
+- Disponibilidade
+- Integridade, tanto de software quanto de hardware
+- Observabilidade
+- Confiabilidade
+
+Busco unir Infraestrutura e Segurança de forma prática.
+
+# 📬 Contatos
 - [LinkedIn](https://www.linkedin.com/in/romulocvlcnte)
-- E-Mail: cavalcante.romulo@protonmail.me
+- E-mail: cavalcante.romulo@protonmail.me
 
 <!--
 **rmxlocvlcnte/rmxlocvlcnte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
